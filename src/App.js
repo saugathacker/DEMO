@@ -56,6 +56,7 @@ class App extends Component {
             temp.weather[0].icon +
             "@2x.png",
         });
+        //added this
       });
   }
 
